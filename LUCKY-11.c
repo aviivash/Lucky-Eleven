@@ -1645,7 +1645,7 @@ else
          case 3:
               three();
               n=3;
-              printf("\No Run\nPOINTS = 0\n");
+              printf("\nNo Run\nPOINTS = 0\n");
               break;
          case 4:
               four();
