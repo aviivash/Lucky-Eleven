@@ -15,21 +15,18 @@ __________________________________________________________ L U C K Y  - 11 _____
                                         _______________R U L E S__________________
 
 
-                                        (1) MATCH IS TO BE PLAYED IN BETWEEN THE RED TEAM & GREEN TEAM of SIX OVER FROM EACH SIDE
+                  (1) MATCH IS TO BE PLAYED IN BETWEEN THE RED TEAM & GREEN TEAM of SIX OVER FROM EACH SIDE                                               (2) BATTING ORDER WILL PROVIDED AFTER SELECTION OF TEAM
 
-                                        (2) BATTING ORDER WILL PROVIDED AFTER SELECTION OF TEAM
+                   [BOWLING ORDER FOLLOWED AS]
+                               BOWLER3 to First Over
+                               BOWLER2 to Second Over
+                               BOWLER1 to Third Over
+                               ALLROUNDER3 to Fourth  Over
+                               ALLROUNDER2 to Fifth  Over
+                               ALLROUNDER1 to Sixth  Over
 
-                                            [BOWLING ORDER FOLLOWED AS]
-
-                                                  BOWLER3 to First Over
-                                                  BOWLER2 to Second Over
-                                                  BOWLER1 to Third Over
-                                                  ALLROUNDER3 to Fourth  Over
-                                                  ALLROUNDER2 to Fifth  Over
-                                                  ALLROUNDER1 to Sixth  Over
-
-                                        (3)SELECT ANY ONE OUT OF THE FOUR PROVIDED TEAM .
-        _________________________________________________________________________________________________________________
+                  (3)SELECT ANY ONE OUT OF THE FOUR PROVIDED TEAM .
+      _____________________________________________________________________________________________________________
                 TEAM-1                  TEAM-2                          TEAM-3                  TEAM-4
 
         Red wicketkeeper(vc)      Green wicketkeeper (vc)         Green wicketkeeper      Red wicketkeeper
@@ -54,14 +51,14 @@ __________________________________________________________ L U C K Y  - 11 _____
 
         Red Bowler-2              Red Bowler-2                    Red Bowler-2            Red Bowler-1
 
-        _________________________________________________________________________________________________________________
+     _________________________________________________________________________________________________________________
 
-                                        (4) CAPTAIN PROVIDE YOU THE [DOUBLE] Of that POINTS does he SCORE
+                   (4) CAPTAIN PROVIDE YOU THE [DOUBLE] Of that POINTS does he SCORE
 
-                                        (5) VICE-CAPTAIN PROVIDE YOU THE [multiple of ONE AND HALF] Of that POINTS does he SCORE
+                   (5) VICE-CAPTAIN PROVIDE YOU THE [multiple of ONE AND HALF] Of that POINTS does he SCORE
 
 
-                                        (6) _______________POINT SYSTEM__________________
+                   (6)__________________________POINT SYSTEM_____________________________
 
                                                 SINGLE = 2
 
@@ -84,7 +81,7 @@ __________________________________________________________ L U C K Y  - 11 _____
                                                 LBW = 30
 
 
-                                            ______________________________________________
+                                  ______________________________________________
 
-_______________________________________________________________________________________________________________________________________________________________________
+    ___________________________________________________________________________________________________________________________
 
