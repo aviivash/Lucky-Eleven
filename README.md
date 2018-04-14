@@ -1,21 +1,20 @@
-# Lucky-Eleven
-Based on dice roll and cricket rule
-                                                AVINASH  VERMA
-                                                EMAIL : aviivash@gmail.com
-                                                PROJECT NAME : LUCKY 11
-                                                DESCRIPTION : DICE ROLE & CRICKET RULE ALGORITHM
-                                                APPLICATION TYPE : CONSOLE APPLICATION
+
+                                     AVINASH  VERMA
+                                     EMAIL : aviivash@gmail.com
+                                     PROJECT NAME : LUCKY 11
+                                     DESCRIPTION : DICE ROLE & CRICKET RULE ALGORITHM
+                                     APPLICATION TYPE : CONSOLE APPLICATION
                                                 
-
-
-__________________________________________________________ L U C K Y  - 11 ___________________________________________________________________________________________
+        ____________________________________________L U C K Y  - 11 ___________________________________________
 
 
 
                                         _______________R U L E S__________________
 
 
-                  (1) MATCH IS TO BE PLAYED IN BETWEEN THE RED TEAM & GREEN TEAM of SIX OVER FROM EACH SIDE                                               (2) BATTING ORDER WILL PROVIDED AFTER SELECTION OF TEAM
+                  (1) MATCH IS TO BE PLAYED IN BETWEEN THE RED TEAM & GREEN TEAM of SIX OVER FROM EACH SIDE 
+                  
+                  (2) BATTING ORDER WILL PROVIDED AFTER SELECTION OF TEAM
 
                    [BOWLING ORDER FOLLOWED AS]
                                BOWLER3 to First Over
@@ -83,5 +82,5 @@ __________________________________________________________ L U C K Y  - 11 _____
 
                                   ______________________________________________
 
-    ___________________________________________________________________________________________________________________________
+    _______________________________________________________________________________________________________________________
 
